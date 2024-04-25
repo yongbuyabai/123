@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                  name="Instance Name" start-page="LICENSE.md">
+
+    <toc-element toc-title="Lib">
+        <toc-element toc-title="site-packages">
+            <toc-element toc-title="django">
+                <toc-element toc-title="contrib">
+                    <toc-element toc-title="admin">
+                        <toc-element toc-title="static">
+                            <toc-element toc-title="admin">
+                                <toc-element toc-title="css">
+                                    <toc-element toc-title="vendor">
+                                        <toc-element toc-title="select2">
+                                            <toc-element topic="LICENSE-SELECT2.md"/>
+                                        </toc-element>
+                                    </toc-element>
+                                </toc-element>
+                                <toc-element toc-title="js">
+                                    <toc-element toc-title="vendor">
+                                        <toc-element toc-title="select2">
+                                            <toc-element topic="select2_LICENSE.md"/>
+                                        </toc-element>
+                                    </toc-element>
+                                </toc-element>
+                            </toc-element>
+                        </toc-element>
+                    </toc-element>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="easyocr">
+                <toc-element toc-title="DBNet">
+                    <toc-element topic="DBNet_README.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="httpcore-1.0.5.dist-info">
+                <toc-element toc-title="licenses">
+                    <toc-element topic="licenses_LICENSE.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="httpx-0.27.0.dist-info">
+                <toc-element toc-title="licenses">
+                    <toc-element topic="httpx-0.27.0.dist-info_licenses_LICENSE.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="idna-3.7.dist-info">
+                <toc-element topic="LICENSE.md"/>
+            </toc-element>
+            <toc-element toc-title="imageio_ffmpeg">
+                <toc-element toc-title="binaries">
+                    <toc-element topic="binaries_README.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="lazy_loader-0.4.dist-info">
+                <toc-element topic="lazy_loader-0.4.dist-info_LICENSE.md"/>
+            </toc-element>
+            <toc-element toc-title="onnxruntime">
+                <toc-element topic="Privacy.md"/>
+                <toc-element toc-title="tools">
+                    <toc-element toc-title="mobile_helpers">
+                        <toc-element topic="nnapi_supported_ops.md"/>
+                        <toc-element topic="coreml_supported_ops.md"/>
+                    </toc-element>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="PyMatting-1.1.12.dist-info">
+                <toc-element topic="PyMatting-1.1.12.dist-info_LICENSE.md"/>
+            </toc-element>
+            <toc-element toc-title="pyreadline3-3.4.1.dist-info">
+                <toc-element topic="pyreadline3-3.4.1.dist-info_LICENSE.md"/>
+            </toc-element>
+            <toc-element toc-title="scipy">
+                <toc-element toc-title="fft">
+                    <toc-element toc-title="_pocketfft">
+                        <toc-element topic="_pocketfft_LICENSE.md"/>
+                    </toc-element>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="torchgen">
+                <toc-element toc-title="packaged">
+                    <toc-element toc-title="autograd">
+                        <toc-element topic="autograd_README.md"/>
+                    </toc-element>
+                </toc-element>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="test">
+            <toc-element toc-title="ziptestdata">
+                <toc-element topic="README.md"/>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+</instance-profile>
